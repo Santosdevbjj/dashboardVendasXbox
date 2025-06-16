@@ -93,10 +93,6 @@ Elementos visuais:
 
 
 
-**Sérgio Santos**  
-Especialista em Análise de Dados, Automação e Tecnologia da Informação  
-📧 Contato: [seu-email@email.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil)
+*
 
---- 
 
