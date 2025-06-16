@@ -1,4 +1,4 @@
-## Bootcamp, Heineken - Inteligência Artificial Aplicada a Dados com Copilot.
+## Bootcamp, Heineken - Inteligência Artificial Aplicada a Dados com Copilot. Ministrado pela DIO. 
 
 ![Screenshot_20250614-182332](https://github.com/user-attachments/assets/62d1fc18-9185-4875-a839-fa42809e7139)
 
