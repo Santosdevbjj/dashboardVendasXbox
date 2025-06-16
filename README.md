@@ -44,6 +44,24 @@ O arquivo `base.xlsx` contém as seguintes abas:
 - Percentual de auto renovação
 - Comparações visuais entre planos mensais/trimestrais/anuais
 
+---
+
+## 🎨 Design do Dashboard
+
+Cores utilizadas (extraídas da aba Assets):
+- Verde Xbox: `#9BC848`
+- Verde-menta: `#5BF6A8`
+- Zona neutra: `#E8E6E9`
+
+Elementos visuais:
+- Cards de KPI
+- Gráfico de colunas comparativas
+- Gráfico de rosca por tipo de plano
+- Filtros interativos (segmentações)
+
+---
+  
+
 ## 🖼️ Visual do Dashboard
 
 - Gráficos de pizza e colunas
