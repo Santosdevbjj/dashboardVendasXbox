@@ -74,7 +74,7 @@ Elementos visuais:
 | Arquivo | Descrição |
 |--------|-----------|
 | `base.xlsx` | Base de dados original com abas para edição |
-| `dashboard_xbox_finalizado.xlsx` | Arquivo Excel com o dashboard totalmente construído |
+| `ok11_dashboard_xbox_finalizado.xlsx` | Arquivo Excel com o dashboard totalmente construído |
 | `README.md` | Instruções e documentação do projeto |
 
 ## 🧪 Como Usar
