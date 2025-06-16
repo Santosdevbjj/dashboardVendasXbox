@@ -86,7 +86,12 @@ Elementos visuais:
 
 ---
 
-## 🤖 Desenvolvido por
+## 🤖 Painel do Dashboard 
+
+
+![copilot_image_1750055936160](https://github.com/user-attachments/assets/1b6c8478-dadc-4edf-b8f8-9e55b76c67a7)
+
+
 
 **Sérgio Santos**  
 Especialista em Análise de Dados, Automação e Tecnologia da Informação  
